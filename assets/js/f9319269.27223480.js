@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklevitable=self.webpackChunklevitable||[]).push([[174],{7078:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/levitable/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

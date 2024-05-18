@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklevitable=self.webpackChunklevitable||[]).push([[638],{3830:l=>{l.exports=JSON.parse('{"tags":[{"label":"lev","permalink":"/levitable/blog/tags/lev","count":1},{"label":"bible","permalink":"/levitable/blog/tags/bible","count":1},{"label":"hello","permalink":"/levitable/blog/tags/hello","count":1}]}')}}]);
