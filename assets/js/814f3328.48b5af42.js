@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklevitable=self.webpackChunklevitable||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/levitable/blog/welcome","unlisted":false}]}')}}]);

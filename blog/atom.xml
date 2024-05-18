@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://levitable.org/levitable/blog</id>
+    <id>https://levitable.org/blog</id>
     <title>Lev Bible Blog</title>
     <updated>2024-05-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://levitable.org/levitable/blog"/>
+    <link rel="alternate" href="https://levitable.org/blog"/>
     <subtitle>Lev Bible Blog</subtitle>
-    <icon>https://levitable.org/levitable/img/favicon.ico</icon>
+    <icon>https://levitable.org/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://levitable.org/levitable/blog/welcome</id>
-        <link href="https://levitable.org/levitable/blog/welcome"/>
+        <id>https://levitable.org/blog/welcome</id>
+        <link href="https://levitable.org/blog/welcome"/>
         <updated>2024-05-17T00:00:00.000Z</updated>
         <author>
             <name>Adam Liechty</name>
