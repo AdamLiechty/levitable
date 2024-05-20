@@ -17,6 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'adamliechty', // Usually your GitHub org/user name.
   projectName: 'levitable', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -81,7 +82,7 @@ const config: Config = {
           items: [
             {
               label: 'Privacy Policy',
-              to: '/docs/privacy',
+              to: '/docs/lev-privacy',
             },
           ],
         },
