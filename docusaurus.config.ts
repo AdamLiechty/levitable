@@ -81,6 +81,10 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
+              label: 'Support',
+              to: '/docs/lev-support',
+            },
+            {
               label: 'Privacy Policy',
               to: '/docs/lev-privacy',
             },
