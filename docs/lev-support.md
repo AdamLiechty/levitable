@@ -13,3 +13,4 @@ sidebar_position: 1
 | 5   | Tapping the already-selected chapter from the chapter menu should close the chapter menu.
 | ✅~~6~~   | ~~When a group of contiguous English words is untranslated, and the original words are also contiguous in the original, but in a different order, they should be reordered to follow the original. E.g. in Gen 1:1 `bara elohim` rather than `elohim bara`.~~
 | 7   | Break up originals corresponding to one word during reordering, as in Psalm 1:1 `Nor stand...`
+| 8   | Add menu and NASB copyright notice
