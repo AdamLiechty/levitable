@@ -81,6 +81,10 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
+              label: 'About',
+              to: '/docs/about',
+            },
+            {
               label: 'Support',
               to: '/docs/lev-support',
             },
