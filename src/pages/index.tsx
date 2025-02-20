@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import AppBadge from '@site/src/components/AppBadge';
 
 import styles from './index.module.css';
 
@@ -37,6 +38,13 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+
+        <div className="text--center">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/dY9e-6SCJXY?si=6o3fmudmRNCU_dUC" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <br/><br/>
+          <AppBadge /> &nbsp;&nbsp;&nbsp;*(Android coming soon)*
+          <br/><br/>
+        </div>
       </main>
     </Layout>
   );
