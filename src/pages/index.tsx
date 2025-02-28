@@ -40,9 +40,12 @@ export default function Home(): JSX.Element {
         <HomepageFeatures />
 
         <div className="text--center">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/dY9e-6SCJXY?si=6o3fmudmRNCU_dUC" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <div className="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/dY9e-6SCJXY?si=6o3fmudmRNCU_dUC" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          </div>
           <br/><br/>
-          <AppBadge /> &nbsp;&nbsp;&nbsp;<span style={{fontStyle: 'italic'}}>(Android coming soon)</span>
+          <AppBadge /> <br/><br/>
+          <span style={{fontStyle: 'italic'}}>(Android coming soon)</span>
           <br/><br/>
         </div>
       </main>
