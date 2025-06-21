@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://levitable.org/blog</id>
     <title>Lev Bible Blog</title>
-    <updated>2024-05-17T00:00:00.000Z</updated>
+    <updated>2025-06-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://levitable.org/blog"/>
     <subtitle>Lev Bible Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[A new kind of language learning app: Lev Bible]]></title>
         <id>https://levitable.org/blog/welcome</id>
         <link href="https://levitable.org/blog/welcome"/>
-        <updated>2024-05-17T00:00:00.000Z</updated>
+        <updated>2025-06-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I made a Bible app. Here's 5 minutes to persuade you to spend 5 precious minutes to try it. Or just try it if you've already decided to give me those 5 minutes. It's free, always will be, and doesn't collect any personal info.]]></summary>
         <content type="html"><![CDATA[<p>I made a Bible app. Here's 5 minutes to persuade you to spend 5 precious minutes to try it. Or just <a href="https://levitable.org/docs/about">try it</a> if you've already decided to give me those 5 minutes. It's free, always will be, and doesn't collect any personal info.</p>
 <p>Maybe you don't like the Bible, or are indifferent? Two reasons you should take a look:</p>
