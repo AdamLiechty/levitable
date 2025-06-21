@@ -8,16 +8,23 @@
     <subtitle>Lev Bible Blog</subtitle>
     <icon>https://levitable.org/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
+        <title type="html"><![CDATA[A new kind of language learning app: Lev Bible]]></title>
         <id>https://levitable.org/blog/welcome</id>
         <link href="https://levitable.org/blog/welcome"/>
         <updated>2024-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I made a Bible app. Here's 5 minutes to persuade you to spend 5 precious minutes to try it. Or just try it if you've already decided to give me those 5 minutes. It's free, always will be, and doesn't collect any personal info.]]></summary>
+        <content type="html"><![CDATA[<p>I made a Bible app. Here's 5 minutes to persuade you to spend 5 precious minutes to try it. Or just <a href="https://levitable.org/docs/about">try it</a> if you've already decided to give me those 5 minutes. It's free, always will be, and doesn't collect any personal info.</p>
+<p>Maybe you don't like the Bible, or are indifferent? Two reasons you should take a look:</p>
+<p>First, this is a new <strong>unique type of foreign-language learning app</strong>. It doesn't have vocab or grammar exercises. You don't translate toy sentences. Even if you have no prior knowledge of the foreign language, you'll immediately reap the satisfaction of <em>using</em> the language to read a real book. It normally takes months of effort to be able to read kids' books; here, <strong>you're reading a foreign language in a real book, in minutes.</strong></p>
+<p>An example beats an explanation:</p>
+<p><img decoding="async" loading="lazy" alt="Un-translating some of the Hebrew Bible: whatever the man/adam called a living creature/nephesh khayyah, that was its name/shm" src="https://levitable.org/assets/images/lev-sample-32b1cfd82ee88a7dc5d1b4b31a25411c.gif" width="480" height="160" class="img_ev3q"></p>
+<p>If you know nothing about Hebrew or Greek, untranslate <em>just one word</em>. You won't lose any comprehension. You'll keep reading English, but when that same word shows up on the next page, you'll see it untranslated again. It will soon become part of your vocabulary.</p>
+<p>Imagine reading <em>Don Quixote</em> to learn Spanish, <em>Faust</em> to learn German, or <em>The Brother's Karamazov</em> to learn Russian.</p>
+<p>This would work for learning any language, reading any book. So why the Bible? <em>Practically</em>, there are so many English translations available that it's easy to find one that follows a formal equivalence (word-for-word) approach that lends itself to an app like this, with lots of translation scholarship available. <em>Aesthetically</em>, the Bible is an ancient, foreign book, and feeling its ancient, foreign nature aids in properly appreciating it. Perhaps no other book animates Western society like it, for better or worse. In any case, I want to exprience this text with more wonder, and I find reading in this way, a little closer to that culture and those times, helps me better "behold the universe through the eyes of another." (<em>The Captive</em>, Marcel Proust).</p>
+<p>Available on iOS today. I need Android beta testers: <a href="mailto:levitable.org@gmail.com" target="_blank" rel="noopener noreferrer">shoot me your email</a> and I'll add you.</p>]]></content>
         <author>
             <name>Adam Liechty</name>
             <uri>https://github.com/adamliechty</uri>
         </author>
-        <category label="lev" term="lev"/>
-        <category label="bible" term="bible"/>
-        <category label="hello" term="hello"/>
     </entry>
 </feed>

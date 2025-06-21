@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklevitable=self.webpackChunklevitable||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A new kind of language learning app: Lev Bible","permalink":"/blog/welcome","unlisted":false}]}')}}]);
