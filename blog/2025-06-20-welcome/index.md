@@ -7,7 +7,7 @@ tags: []
 
 I made a Bible app. Here's 5 minutes to persuade you to spend 5 precious minutes to try it. Or just [try it](/docs/about) if you've already decided to give me those 5 minutes. It's free, always will be, and doesn't collect any personal info.
 
-Maybe you don't like the Bible, or are indifferent? Two reasons you should take a look:
+Maybe you don't like the Bible, or are indifferent? Some reasons you should take a look:
 
 First, this is a new **unique type of foreign-language learning app**. It doesn't have vocab or grammar exercises. You don't translate toy sentences. Even if you have no prior knowledge of the foreign language, you'll immediately reap the satisfaction of *using* the language to read a real book. It normally takes months of effort to be able to read kids' books; here, **you're reading a foreign language in a real book, in minutes.**
 
