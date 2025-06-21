@@ -47,7 +47,7 @@ export default function Home(): JSX.Element {
           </div>
           <br/><br/>
           <AppBadge /> <br/><br/>
-          <span style={{fontStyle: 'italic'}}>(Android coming soon)</span>
+          <span style={{fontStyle: 'italic'}}>Android beta testers needed: <a href="mailto:levitable.org@gmail.com">request access</a></span>
           <br/><br/>
         </div>
       </main>
