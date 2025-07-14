@@ -10,8 +10,17 @@ const svgStyle: LooseStyles = {
 }
 export default function AppBadge() {
     return (
-        <a href="https://apps.apple.com/us/app/lev-bible/id6502670095?itscg=30200&itsct=apps_box_badge&mttnsubad=6502670095" style={{display: 'inline-block'}}>
-            <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1737504000" alt="Download on the App Store" style={{width: '246px', height: '82px', verticalAlign: 'middle', objectFit: 'contain'}} />
-        </a>
+        <>
+        <div>
+            <a href="https://apps.apple.com/us/app/lev-bible/id6502670095?itscg=30200&itsct=apps_box_badge&mttnsubad=6502670095" style={{display: 'inline-block'}}  target="_blank">
+                <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1737504000" alt="Download on the App Store" style={{width: '246px', height: '82px', verticalAlign: 'middle', objectFit: 'contain'}} />
+            </a>
+        </div>
+        <div>
+            <a href="https://play.google.com/store/apps/details?id=org.levitable.lev" target="_blank">
+                <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="100"/>
+            </a>
+        </div>
+        </>
     )
 }
