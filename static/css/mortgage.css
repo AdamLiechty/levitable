@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  color: black;
+  font: 12px sans-serif;
+}
+
+rect {
+  stroke: #fff;
+  stroke-width: .1px;
+}
+
+#details, #vars {
+  font-size: 14px;
+}
+
+#vars {
+  margin: 5px 15px;
+}
+
+/* Charting */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+#bible a {
+  margin: 15px;
+  color: gray;
+}
+
+#attrib {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: gray;
+}
+#attrib a {
+  color: gray;
+}
